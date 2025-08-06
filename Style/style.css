@@ -690,54 +690,6 @@ footer a:hover
 }
 }
 
-@media (max-width:550px) {
-    .section-p1 {
-    padding: 20px;
-}
-    #header {
-    padding: 10px 30px;
-}
-#hero {
-      height: 52vh;
-    
-   background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    padding: 0 20px;
-   
-}
-h2 {
- 
-    font-size: 1.6em;
-   
-}
-h1 {
-    font-size: 37px;
-  
-}
-#hero p {
-    font-size: 14px;
-    
-}
-.pro {
-    width: 40%;
-   margin: 19px 0;
-   
-}
-#banner3 {
-    
-    padding: 0 20px;
-}
-.box {
-    width: 100%;
-}
-.form {
-    width: 90%;
-}
-}
-
-
-
 
 @media (max-width:450px) {
     .section-p1 {
