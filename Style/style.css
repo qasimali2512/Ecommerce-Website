@@ -737,7 +737,7 @@ h1 {
 }
 @media (max-width:425px) {
     #hero {
-          height: 50vh; 
+          height: 300px; 
 background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -800,7 +800,7 @@ h1 {
 }
 .banner-box {
     min-width: 100%;
-    height: 45vh;
+    height: 300px;
     background-size: cover;
     margin-top: 14px;
 }
@@ -824,9 +824,7 @@ h1 {
 
 
 
-/* Shop Page */
 
-/* Pagge header */
 
 
 
