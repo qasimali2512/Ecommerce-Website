@@ -89,3 +89,49 @@ text-align: center;
 .single-details  span{
     line-height: 1.5rem;
 }
+
+@media (min-width: 426px) and (max-width: 786px){
+    #prodetails{
+    display: flex;
+    flex-direction: column;
+   
+    padding: 0;
+   
+    align-items: center;
+}
+.single-images {
+    width: 60%;
+    margin-right: 0;
+    
+}
+.single-details {
+    width: 100%;
+    margin-top: 1.7rem;
+    padding: 0 5rem 0 5rem;
+    align-items: center;
+    justify-content: center;
+    
+    text-align: center;
+}
+.single-details select {
+  display: block;
+  margin: 1rem auto;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+}
+@media (max-width:425px){
+    #prodetails{
+    display: flex;
+    flex-direction: column;
+}
+.single-images {
+    width: 100%;
+    margin-right: 0;
+}
+.single-details {
+    width: 100%;
+    margin-top: 1.7rem;
+}
+}
