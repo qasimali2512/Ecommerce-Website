@@ -714,7 +714,7 @@ footer a:hover {
 
 @media (max-width: 425px) {
     #hero {
-        height: 18.75rem;
+        height: 17rem;
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -740,8 +740,8 @@ footer a:hover {
     }
 
     #feature .fe-box {
-        width: 10.625rem;
-        margin: 0 0 1.5625rem 0;
+        width: 10.6rem;
+        margin: 0 0 1.5rem 0;
     }
 }
 
@@ -766,8 +766,8 @@ footer a:hover {
     }
 
     #feature .fe-box {
-        width: 9.375rem;
-        margin: 0 0 1.5625rem 0;
+        width: 9.37rem;
+        margin: 0 0 1.56rem 0;
     }
 
     .pro {
