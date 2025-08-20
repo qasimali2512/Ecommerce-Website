@@ -126,6 +126,7 @@ align-items: flex-start;
     #form-detail{
         flex-direction: column;
         width: 100%;
+        margin: 0;
     }
     #form-detail form{
         width: 100%;

@@ -1,0 +1,55 @@
+#page-header p{
+ font-size: 1.2rem;
+}
+
+#cart table{
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    white-space: nowrap;
+}
+#cart img{
+    width: 4.5rem;
+}
+#cart td:nth-child(1){
+    width: 6.2rem;
+    text-align: center;
+}
+#cart td:nth-child(2){
+    width: 9.2rem;
+    text-align: center;
+
+}
+#cart td:nth-child(3){
+    width: 15.2rem;
+    text-align: center;
+
+}
+#cart td:nth-child(4),
+#cart td:nth-child(5),
+#cart td:nth-child(6)
+{
+    width: 9.2rem;
+    text-align: center;
+
+}
+#cart input{
+    width: 4.2rem;
+    padding: 10px 5px 10px 15px;
+}
+#cart thead {
+    border: 1px solid #e1e1e1;
+    border-left: none;
+    border-right: none;
+}
+#cart thead td {
+    padding: 1.2rem 0;
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+#cart tbody td{
+    padding: 1rem;
+}
